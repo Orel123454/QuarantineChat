@@ -1,0 +1,116 @@
+html{
+    margin: 0; 
+   
+}
+
+body{
+    background: #FFFFFF;
+    margin-top: -24px;
+    margin-left: 0px;
+}
+
+.verx{
+    float: left; 
+    padding-right: 144px;
+}
+
+.paz {
+    width: 98px;
+    height: 22px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 26px;
+    color: #FFFFFF; 
+}
+
+.center{
+
+
+}
+
+
+.center_1{
+    height: 77px;  
+    
+}
+
+.center_2{
+    height: 44px;
+}
+
+
+.center_3{
+    margin-top: 8px;
+    height: 70px;
+}
+
+.center_4{
+    height: 133.05px;
+}
+
+.center_4_1{
+    float: left;
+    align-content: center;
+   display: flex;
+}
+
+.block{
+    background-color: #C4CDE2;
+    color: #8292BC;
+    border-radius: 5px 5px 5px 5px;
+    width: 250px;
+    margin-right: 19px;
+    font-size: 16px;
+    height: 33px;
+    margin-bottom: 5%;
+}
+
+.block_email{
+    width: 531px;
+}
+
+.instrukcii{
+text-decoration: none;
+color: #C4CDE2;
+font-size:  14px ;
+}
+
+.in_1{
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.block_start{
+    background-color: #6E9DD4;
+    color: #FFFFFF;
+    width: 178px; 
+    margin-left: 25px;
+}
+
+.zaglav{  
+font-weight: normal;
+padding-top: 174px;
+}
+
+.zaglav_2 {
+    padding-bottom: 22px;
+    margin-top: -20px;
+    font-weight: normal;
+}
+
+.PskovHack{
+    margin-top: 124px;
+    color: #C4CDE2;
+}
+
+.covid19_3{
+position: absolute;
+width: 34px;
+height: 31px;
+}
+
+.checkbox{
+margin-top: 16px;
+}
